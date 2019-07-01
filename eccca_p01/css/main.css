@@ -1210,6 +1210,29 @@ img::-moz-selection {
     line-height: 30px;
     font-weight: 700;
 }
+
+.icon-firstImage {
+    content: url(../images/slider.png);
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin: auto;
+}
+.icon-secondImage {
+  content: url(../images/slider2.png);
+  width: 800px;
+  height: 600px;
+  display: block;
+  margin: auto;
+}
+.icon-thirdImage {
+  content: url(../images/slider3.png);
+  width: 800px;
+  height: 600px;
+  display: block;
+  margin: auto;
+}
+
 .icon-awards {
     background: url(../images/award.png) no-repeat;
     width: 44px;
